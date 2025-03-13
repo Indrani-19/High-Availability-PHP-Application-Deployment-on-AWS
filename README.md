@@ -11,11 +11,6 @@ High Availability: Achieved fault tolerance through multi-AZ RDS deployment and 
 Architecture Diagram
 ![image](https://github.com/user-attachments/assets/635d0879-99e8-4377-961c-58dc2e38005b)
 
-
-Below is the architecture diagram for the solution:
-
-Architecture Diagram
-
 Technologies Used
 
 AWS (EC2, RDS, ALB, Auto Scaling, Systems Manager)
